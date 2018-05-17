@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Layout for a single list item -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/poi_item_height"
+    android:minHeight="@dimen/poi_item_height"
+    android:background="@color/colorPrimaryDark"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/poi_image"
+        android:layout_width="@dimen/poi_image_height"
+        android:layout_height="@dimen/poi_image_height"
+        />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/poi_item_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/poi_image"
+        android:orientation="vertical"
+        android:paddingLeft="8dp">
+
+        <TextView
+            android:id="@+id/poi_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            tools:text="Aristotelous Square" />
+
+        <TextView
+            android:id="@+id/poi_location"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:layout_below="@id/poi_name"
+            android:gravity="top"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@android:color/white"
+            tools:text="Nikis Avenue" />
+
+    </RelativeLayout>
+</RelativeLayout>

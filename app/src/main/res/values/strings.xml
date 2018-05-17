@@ -1,0 +1,41 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for Sightseeing list [CHAR LIMIT=20] -->
+    <string name="category_sightseeing">Landmark</string>
+
+    <!-- Category name for Shopping list [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for Nightlife list [CHAR LIMIT=20] -->
+    <string name="category_nightlife">Nightlife</string>
+
+    <!-- Category name for Museums List [CHAR LIMIT=20] -->
+    <string name="category_museum">Museums</string>
+    <string name="agiosdimitriosname">Crypt of Agios Demetrios</string>
+    <string name="agiosdimitrioslocation">83 Agiou Dimitriou | Agios Demetrios Church, Thessaloniki 546 33, Greece</string>
+    <string name="aristotelousname">Aristotelous Square</string>
+    <string name="aristotelouslocation">Nikis Avenue, Thessaloniki 546 24, Greece</string>
+    <string name="whitetowername">White Tower of Thessaloniki</string>
+    <string name="whitetowerlocation">Leoforos Nikis, Thessaloniki 546 40, Greece</string>
+    <string name="cosmosname">\"Mediterranean Cosmos\" Shopping Mall</string>
+    <string name="cosmoslocation">Aftokinitodromos Thessalonikis Neon Moudanion, Thessaloniki 570 01, Greece</string>
+    <string name="enkarponame">En Karpo</string>
+    <string name="enkarpolocation">81 Tsimiski Ioanni, Thessaloniki 546 22, Greece</string>
+    <string name="olicatessenname">Olicatessen</string>
+    <string name="olicatessenlocation">4 Ougo Viktoros, Thessaloniki 54625, Greece</string>
+    <string name="hoppypubname">The Hoppy Pub</string>
+    <string name="hoppypublocation">6 Foka Nikiforou | White Tower Area, Thessaloniki 546 21, Greece</string>
+    <string name="dentrostobarname">Dentro Sto Bar</string>
+    <string name="dentrostobarlocation">25 Leoforos Vassileos Georgiou, Thessaloniki 546 40, Greece</string>
+    <string name="kafodeioname">Kafodeio Elliniko</string>
+    <string name="kafodeiolocation">Eleftheriou Venizelou 45, Thessaloniki 546 31, Greece</string>
+    <string name="archeologicalname">Archaeological Museum of Thessaloniki</string>
+    <string name="archeologicallocation">Navarchou Votsi 3 | Warehouse A, Thessaloniki Harbor, Thessaloniki, Greece</string>
+    <string name="noesisname">Noesis - Science Center and Technology Museum</string>
+    <string name="noesislocation">6th Km Thessaloniki Rd. | Thermi, Thessaloniki 570 01, Greece</string>
+    <string name="photographyname">Thessaloniki Museum of Photography</string>
+    <string name="photographylocation">Manoli Andronikou 6 | Manoli Andronikou 6, 54013, Thessaloniki 54013, Greece</string>
+
+</resources>
